@@ -1,4 +1,4 @@
-package com.suvarnalaxmi.kfc;
+package com.priyankkatiyar.kfc;
 
 import android.content.Context;
 
